@@ -1,0 +1,5 @@
+http://blog.csdn.net/linshaoquan/article/details/46555173
+
+ 使用AutoLayout布局适配时，如何提前获得AutoLayout完成适配后的子控件的真实frame
+
+
